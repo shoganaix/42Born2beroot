@@ -1,6 +1,6 @@
 # Born2beroot
 
->_"This project aims to introduce you to the wonderful world of virtualization"_
+>_You can do anything you want to do, this is your **WORLD**_
 >
 >
 # Index
@@ -8,6 +8,8 @@
 * [Final Grade](#grade)
 
 ## B2R
+   >_This project aims to introduce you to the wonderful world of **virtualization**_
+
 This was my fourth project as a 42 student and my last to complete the fisrt circle.
 
 **We will need to create our first machine in VirtualBox (or UTM if you can’t use VirtualBox) under specific instructions. 
